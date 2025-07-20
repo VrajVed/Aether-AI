@@ -11,8 +11,8 @@ export default function Home() {
         </p>
       </div>
       <div> 
-        <button className="cursor-pointer p-3 border-neutral-100 border-2 rounded-md">Try Aether for Free</button>
-        <button className="cursor-pointer p-3">See How it Works</button>
+        <button className="cursor-pointer p-3 mr-25 border-neutral-100 border-1 rounded-xl">Try Aether for Free</button>
+        <button className="cursor-pointer p-3 rounded-md text-neutral-950 bg-neutral-50 font-semibold">See How it Works</button>
       </div>
     </div>
   );
